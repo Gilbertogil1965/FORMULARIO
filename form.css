@@ -1,0 +1,49 @@
+body {
+    width: 100%;
+    text-transform: uppercase;
+    background: burlywood;
+    background-size: cover;
+  
+
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    border-top: 100px; 
+    
+}
+p {
+    font-family: Cambria;
+}
+.login {
+    font-family: Gothic sans-serif;
+    font-size: 35px;
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: yellowgreen;
+
+  }
+  
+  p {
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: px;
+    padding: 0.3px;
+  
+  }
+  img {
+    width: 300px;
+    border-width: 15px;
+    border-radius: 60%;
+    border-color: blue;
+    border-style: solid;
+    margin: 15px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+
+  }
+  .pie-de-pg {
+    width: 15px;
+  }
+
+  
